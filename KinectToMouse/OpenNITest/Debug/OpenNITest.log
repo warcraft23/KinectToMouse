@@ -1,0 +1,11 @@
+﻿生成启动时间为 15/6/13 00:22:06。
+     1>项目“C:\workspace\Project\KinectToMouse\KinectToMouse\OpenNITest\OpenNITest.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\program files (x86)\openni\include\xnplatform.h(58): fatal error C1189: #error:  Xiron Platform Abstraction Layer - Win32 - Microsoft Visual Studio versions above 2010 (10.0) are not supported!
+     1>已完成生成项目“C:\workspace\Project\KinectToMouse\KinectToMouse\OpenNITest\OpenNITest.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:02.97
