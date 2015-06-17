@@ -1,0 +1,26 @@
+﻿生成启动时间为 15/6/13 21:29:03。
+     1>项目“C:\workspace\Project\KinectToMouse\KinectToMouse\OpenNITest\OpenNITest.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\OpenNITest.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp test.cpp
+         test.cpp
+     1>c:\workspace\tools\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>c:\workspace\tools\opencv\build\include\opencv2\flann\flann.hpp(233): warning C4996: 'cv::flann::Index_<T>': 被声明为已否决
+                 c:\workspace\tools\opencv\build\include\opencv2\flann\flann.hpp(278): 参见对正在编译的类 模板 实例化“cv::flann::Index_<T>”的引用
+         main.cpp
+         正在生成代码...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\OpenNITest.exe.embed.manifest.res" Debug\OpenNITest_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\workspace\Project\KinectToMouse\KinectToMouse\KinectToMouse\Debug\OpenNITest.exe" /INCREMENTAL /NOLOGO openNI.lib opencv_calib3d231d.lib opencv_contrib231d.lib opencv_core231d.lib opencv_features2d231d.lib opencv_flann231d.lib opencv_gpu231d.lib opencv_highgui231d.lib opencv_imgproc231d.lib opencv_legacy231d.lib opencv_ml231d.lib opencv_objdetect231d.lib opencv_ts231d.lib opencv_video231d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\OpenNITest.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\workspace\Project\KinectToMouse\KinectToMouse\KinectToMouse\Debug\OpenNITest.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\workspace\Project\KinectToMouse\KinectToMouse\KinectToMouse\Debug\OpenNITest.lib" /MACHINE:X86 Debug\OpenNITest.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\test.obj
+     1>test.obj : error LNK2005: _main 已经在 main.obj 中定义
+     1>C:\workspace\Project\KinectToMouse\KinectToMouse\KinectToMouse\Debug\OpenNITest.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+     1>已完成生成项目“C:\workspace\Project\KinectToMouse\KinectToMouse\OpenNITest\OpenNITest.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.36

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="KinectToMouse">
+</Property><Property Name="解决方案文件" Value="C:\workspace\Project\KinectToMouse\KinectToMouse\KinectToMouse\KinectToMouse.sln">
+</Property><Property Name="Date" Value="2015年6月14日">
+</Property><Property Name="Time" Value="00:01:00">
+</Property><Property Name="日志号" Value="3">
+</Property></Properties><Event ErrorLevel="0" Project="PointViewer_2010" Source="..\..\..\..\..\Program Files (x86)\PrimeSense\NITE\Samples\PointViewer\PointViewer_2010.vcproj" Description="Converting project file 'C:\Program Files (x86)\PrimeSense\NITE\Samples\PointViewer\PointViewer_2010.vcproj'.">
+</Event><Event ErrorLevel="2" Project="PointViewer_2010" Source="..\..\..\..\..\Program Files (x86)\PrimeSense\NITE\Samples\PointViewer\PointViewer_2010.vcproj" Description="Fail to convert 'C:\Program Files (x86)\PrimeSense\NITE\Samples\PointViewer\PointViewer_2010.vcproj' to 'C:\Program Files (x86)\PrimeSense\NITE\Samples\PointViewer\PointViewer_2010.vcxproj'. Please make sure that you have sufficient permissions for the source and destination file.">
+</Event><Event ErrorLevel="2" Project="PointViewer_2010" Source="..\..\..\..\..\Program Files (x86)\PrimeSense\NITE\Samples\PointViewer\PointViewer_2010.vcproj" Description="项目升级失败。">
+</Event><Event ErrorLevel="3" Project="PointViewer_2010" Source="..\..\..\..\..\Program Files (x86)\PrimeSense\NITE\Samples\PointViewer\PointViewer_2010.vcproj" Description="未转换">
+</Event><Event ErrorLevel="2" Project="" Source="..\..\..\..\..\Program Files (x86)\PrimeSense\NITE\Samples\PointViewer\PointViewer_2010.vcproj" Description="项目升级失败。">
+</Event></UpgradeLog>
